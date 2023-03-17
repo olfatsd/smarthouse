@@ -1,0 +1,11 @@
+.App {
+  padding: 10px;
+  justify-content: center;
+  text-align: center;
+  background: #eaeaea;
+  border: 5px ridge teal;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  min-height: 500px;
+}
